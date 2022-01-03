@@ -1,2 +1,3 @@
 # Oregon-State-FiveM-server-
-Info on server
+Hello
+Welcome to ur server. 
